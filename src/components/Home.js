@@ -4,7 +4,7 @@ import image from "../Dark Laptop.jpg"
 export default function Home(){
     return (
         <main>
-            <img src={image} alt="Background Image" className="absolute object-cover display-flex" /> 
+            <img src={image} alt="Dark Laptop" className="absolute object-cover display-flex" /> 
             <section className="relative flex justify-center min-h-screen pt-8 lg:pt-64 px-8">
                 <h1 className="text-6xl text-green-100 font-bold cursive leading-none lg:leading-snug home-name"> 
                   Hello there. I'm Tony  
