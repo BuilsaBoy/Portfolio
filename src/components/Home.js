@@ -10,7 +10,7 @@ export default function Home(){
                   Hello there. I'm Tony  
                 </h1>
             </section>
-            <section className="relative flex justify-center text-center sm:text-center">
+            <section className="relative flex justify-center text-center sm:text-">
                 <h2 className="text-3xl text-green-100 cursive home-sec">
                     Your Needle In the Haystack😉
                 </h2>
